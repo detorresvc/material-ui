@@ -1,0 +1,8 @@
+node_modules/
+bower_components/
+npm-debug.log
+config/app.js
+dist/*
+!dist/img/
+dist/img/.DS_Store
+.DS_Store
